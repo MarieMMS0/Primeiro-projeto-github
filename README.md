@@ -1,3 +1,3 @@
-# Primeiro-projeto-github
+# Primeiro-repositório-github
 
 Este projeto foi criado a partir da aula de setups da cubos academy.
